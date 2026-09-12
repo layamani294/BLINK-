@@ -6,8 +6,8 @@
 
 ### Team Members
 
-- **Team Lead:** LAYA
-- **Member 2:** NAZAL
+- **Team Lead:** LAYAMANI VM
+- **Member 2:** NAZEL SIDDIQUE CS
 
 ## Project Description
 
@@ -312,8 +312,8 @@ Add any additional demonstration links, screenshots, or presentation materials h
 
 # Team Contributions
 
-- **LAYA:** Project development, UI implementation, blink-detection logic, testing, and documentation.
-- **NAZAL:** Project development, testing, debugging, and documentation.
+- **LAYAMANI VM:** Project development, UI implementation, blink-detection logic, testing, and documentation.
+- **NAZEL SIDDIQUE CS:** Project development, testing, debugging, and documentation.
 
 ---
 
