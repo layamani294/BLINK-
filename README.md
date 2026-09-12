@@ -225,15 +225,15 @@ Add at least 3 screenshots of the working project here.
 
 *Shows the webcam interface with facial landmarks and real-time blink detection.*
 
-### Screenshot 2 – Blink Statistics
+### Screenshot 2 – Eyes Open
 
-`![Blink Statistics](screenshots/blink-statistics.png)`
+<img width="1813" height="867" alt="Screenshot 2026-09-12 112833" src="https://github.com/user-attachments/assets/b5ef200b-546f-4cdd-9969-241612fb418f" />
 
 *Shows the blink count, blink rate, blink duration, and related statistics.*
 
-### Screenshot 3 – Video Analysis
+### Screenshot 3 – Eyes Closed
 
-`![Video Analysis](screenshots/video-analysis.png)`
+<img width="1814" height="864" alt="Screenshot 2026-09-12 112906" src="https://github.com/user-attachments/assets/1c3bc1de-7fad-496c-99b9-dc7aa986806a" />
 
 *Shows blink detection and EAR analysis while processing a pre-recorded video.*
 
@@ -292,7 +292,7 @@ Add at least 3 screenshots of the working project here.
 
 ## Video
 
-Add your demo video link here.
+https://drive.google.com/file/d/1Jx8ypTucuH7_ys4-0m-iSb7ff3sqqlve/view?usp=drive_link
 
 The demo should show:
 
