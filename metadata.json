@@ -1,0 +1,10 @@
+{
+  "name": "Blink Counter",
+  "description": "Computer vision blink counter using MediaPipe Face Mesh and Eye Aspect Ratio (EAR) for live camera and video file analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
