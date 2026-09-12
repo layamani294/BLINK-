@@ -220,7 +220,8 @@ Add at least 3 screenshots of the working project here.
 
 ### Screenshot 1 – Live Blink Detection
 
-`![Live Detection](screenshots/live-detection.png)`
+<img width="1766" height="864" alt="Screenshot 2026-09-12 112740" src="https://github.com/user-attachments/assets/249ba207-fb4d-4e27-b133-3b5adb58e180" />
+
 
 *Shows the webcam interface with facial landmarks and real-time blink detection.*
 
